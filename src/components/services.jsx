@@ -1,3 +1,6 @@
+// exmple aiTypes
+
+
 import React from 'react'
 
 function Services() {

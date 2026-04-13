@@ -1,4 +1,4 @@
-// Herosection
+// exmple navbar
 
 
 import React from 'react'

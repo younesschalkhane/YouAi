@@ -1,3 +1,7 @@
+// exmple aiBenefits
+
+
+
 import React from 'react'
 
 function avantages() {
