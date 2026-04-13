@@ -3,12 +3,16 @@
 
 import React from 'react'
 
-function premier() {
+function Premier() {
+
   return (
+
     <div>
+
+      Premier
       
     </div>
   )
 }
 
-export default premier
+export default Premier

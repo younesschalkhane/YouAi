@@ -1,15 +1,19 @@
 // exmple aiBenefits
 
 
-
 import React from 'react'
 
-function avantages() {
+function Avantages() {
+
   return (
+    
     <div>
+
+      Avantages
       
     </div>
   )
 }
 
-export default avantages
+export default Avantages
+

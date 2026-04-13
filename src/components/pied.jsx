@@ -1,11 +1,14 @@
 import React from 'react'
 
-function pied() {
+function Pied() {
+
   return (
+
     <div>
       
+        Pied 
     </div>
   )
 }
 
-export default pied
+export default Pied

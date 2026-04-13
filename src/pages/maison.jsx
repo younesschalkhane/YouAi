@@ -9,7 +9,8 @@ function Maison() {
     return (
 
       <>
-        <premier  />
+        <Premier  />
+
         <main>
 
               <Accueil    />
@@ -28,7 +29,7 @@ function Maison() {
 
     }
     
- export default Maison;
+ export default Maison
 
 
 

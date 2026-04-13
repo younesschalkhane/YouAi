@@ -1,5 +1,6 @@
-import '.App.css';
-import Accueil from './components/Accueil';
+import '.App.css'
+
+import Maison from './pages/maison'
 
 function App() {
   
@@ -8,7 +9,7 @@ function App() {
 
     <>
 
-    <Maison/>
+    <Maison  />
 
     
     </>
